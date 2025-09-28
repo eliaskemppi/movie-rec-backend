@@ -71,7 +71,7 @@ Successful machine learning deployment isn’t just about the model itself, but 
 
 Data preprocessing is just as important as model design. Raw data often introduces noise that skews recommendations. 
 
-While effective for small datasets, the user-user collaborative filtering approach does not scale well to larger datasets due to computational cost when calculating similarity matrices. The embedding-based model is significantly faster and more scalable.
+**While effective for small datasets, the user-user collaborative filtering approach does not scale well to larger datasets due to computational cost when calculating similarity matrices. The embedding-based model is significantly faster and more scalable.**
 
 ## Visuals
 
