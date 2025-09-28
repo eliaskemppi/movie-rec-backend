@@ -72,3 +72,13 @@ Successful machine learning deployment isn’t just about the model itself, but 
 Data preprocessing is just as important as model design. Raw data often introduces noise that skews recommendations. 
 
 While effective for small datasets, the user-user collaborative filtering approach does not scale well to larger datasets due to computational cost when calculating similarity matrices. The embedding-based model is significantly faster and more scalable.
+
+## Visuals
+
+Here’s a quick look at the system in action:
+
+### Frontend UI
+![Recommendation UI](./images/UI.png)
+
+### Example Recommendations
+![Example Recommendations](./images/recommendations.png)
