@@ -126,7 +126,7 @@ def recommend_for_new_user_simple(
         .head(k)
 )
 
-    print(similar_users)
+    #print(similar_users)
     # Pick the movies the new user has not seen
     unseen_movies = user_item_matrix.columns[user_item_matrix.loc[new_user_id].isna()]
 
